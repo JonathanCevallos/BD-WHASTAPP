@@ -1,0 +1,48 @@
+  
+{
+   "posts": [
+      { "id": 1, "title": "Post 1" },
+      { "id": 2, "title": "Post 2" },
+      {" id": 3, "title": "Post 3" }
+   ],
+   "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+   ],
+   "profile": {
+      "name": "typicode"
+   },
+"Contactos": [
+   {
+      "id": 1,
+      "nombre": "David Alava"
+      "Informacion" : "Siempre Power"
+      "avatar":"https://reqres.in/img/faces/5-image.jpg"
+   },
+    {
+      "id": 2,
+      "nombre": "Sofia Zambrano"
+      "Informacion" : "Futura Arquitecta"
+      "avatar":"https://reqres.in/img/faces/3-image.jpg"
+   },
+    {
+      "id": 1,
+      "nombre": "David Alava"
+      "Informacion" : "Siempre Power"
+      "avatar":"https://reqres.in/img/faces/5-image.jpg"
+   },
+    {
+      "id": 1,
+      "nombre": "Carlos Caicedo"
+      "Informacion" : "Vive como su fuese tu ultimo dia"
+      "avatar":"https://reqres.in/img/faces/6-image.jpg
+   },
+    {
+      "id": 1,
+      "nombre": "Gabriela Cedeño"
+      "Informacion" : "Dios logra sanar todor"
+      "avatar":"https://reqres.in/img/faces/2-image.jpg"
+   }
+  
+]
+}                                                                                   
