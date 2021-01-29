@@ -12,7 +12,7 @@
    "profile": {
       "name": "typicode"
    },
-"Contactos": [
+"contactos": [
     { "id": 1, "nombre": "David Alava", "Informacion" : "Siempre Power", "avatar":"https://reqres.in/img/faces/5-image.jpg" },
     { "id": 2, "nombre": "Sofia Zambrano", "Informacion" : "Futura Arquitecta",  "avatar":"https://reqres.in/img/faces/3-image.jpg" },
     { "id": 3, "nombre": "David Alava", "Informacion" : "Siempre Power","avatar":"https://reqres.in/img/faces/5-image.jpg"},
